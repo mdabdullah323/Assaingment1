@@ -1,0 +1,102 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size:50px;
+}
+h2{
+    font-size: 40px;
+    color: blue;
+}
+p{
+    color: dimgray;
+}
+.orange-highlight{
+    color:rgba(255, 174, 0, 0.993) ;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.link-button{
+    text-decoration: none;
+    background-image:linear-gradient(45deg, lightsalmon, tomato) ;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 800;
+}
+
+.box{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 80%;
+    background-color: white;
+    
+}
+.Latest-Working-Project{
+    background-color: ghostwhite;
+    text-align: center;
+    margin-top: 50px;
+    background-size: 150%;
+    
+    
+}
+.Latest-Working-Project img{
+    width: 100%;
+}
+#gym{
+    
+    border-image-slice: 4;
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+   
+}
+#agency{
+    
+    border-image-slice: 4;
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+   
+}
+#music{
+    
+    border-image-slice: 4;
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+}
+.picture{
+    width: 50%;
+     margin-top: 50px;
+    padding:10% ;
+    padding-left:25% ;
+}
+.picture img{
+    width: 100%;
+    margin-top: 50px;
+}
+#work{
+    float: left;
+}
+footer{
+    text-align: center;
+    padding-bottom: 80px;
+    
+}
+.icon{
+    padding: 20px;
+}
